@@ -1,16 +1,16 @@
 # quizzler
 
-A new Flutter project.
+This project is a **True or False Quiz** application built using Flutter and Dart. It allows users to answer a series of true or false questions, with immediate feedback displayed on the screen. The application is designed with key Object-Oriented Programming (OOP) principles, such as encapsulation and abstraction.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Simple Quiz Interface**: The app presents a series of true or false questions that the user can answer by pressing the corresponding button.
+- **Feedback System**: After each answer, a checkmark (✔️) is displayed for correct answers, and a cross (❌) is shown for incorrect answers. These icons are stored in a results bar at the bottom of the screen.
+- **Alert on Completion**: When the user reaches the last question, an alert notifies them that the quiz is complete, and the quiz then restarts from the beginning.
+- **OOP Principles**: The app is built using fundamental OOP principles such as encapsulation and abstraction, ensuring that the code is well-structured and maintainable.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Press the True or False button to answer the questions.
+2. Observe the results at the bottom of the screen.
+3. After completing all questions, press "OK" in the alert to restart the quiz.

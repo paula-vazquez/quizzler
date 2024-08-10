@@ -21,3 +21,10 @@ This project is a **True or False Quiz** application built using Flutter and Dar
 
 - **Flutter:** The powerful UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart:** The programming language optimized for building fast, multi-platform applications.
+
+## Screenshots
+
+<p align="center">
+  <img src="lib/image1.jpg" alt="Screenshot of the application" width="400" />
+  <img src="lib/image2.jpg" alt="Screenshot of the application" width="400" />
+</p>

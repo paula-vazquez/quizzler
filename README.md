@@ -1,4 +1,6 @@
-# quizzler
+# Quizzler
+
+## Overview
 
 This project is a **True or False Quiz** application built using Flutter and Dart. It allows users to answer a series of true or false questions, with immediate feedback displayed on the screen. The application is designed with key Object-Oriented Programming (OOP) principles, such as encapsulation and abstraction.
 
@@ -14,3 +16,8 @@ This project is a **True or False Quiz** application built using Flutter and Dar
 1. Press the True or False button to answer the questions.
 2. Observe the results at the bottom of the screen.
 3. After completing all questions, press "OK" in the alert to restart the quiz.
+
+## Technologies Used
+
+- **Flutter:** The powerful UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart:** The programming language optimized for building fast, multi-platform applications.
